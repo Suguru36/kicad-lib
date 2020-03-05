@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SAP15N
+D Darlington transistors with built-in temperature compensation diodes for audio amplifier applications
+K
+F http://jm.plantefeve.pagesperso-orange.fr/sap15n.pdf
+$ENDCMP
+#
+#End Doc Library

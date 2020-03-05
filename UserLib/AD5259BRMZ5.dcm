@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5259BRMZ5
+D AD5259BRMZ5, Digital Potentiometer 5k 256-Position Serial-I2C 10-Pin MSOP
+K
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD5259.pdf
+$ENDCMP
+#
+#End Doc Library

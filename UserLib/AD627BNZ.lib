@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model AD627BNZ
+#/169133/233380/2.46/8/3/Integrated Circuit
+DEF AD627BNZ IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "AD627BNZ" 1050 200 50 H V L CNN
+F2 "DIP794W56P254L959H533Q8N" 1050 100 50 H I L CNN
+F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD627.pdf" 1050 0 50 H I L CNN
+F4 "AD627BNZ, Instrumentation Amplifier, 0.15mV Offset, 83dB CMRR, Rail-Rail Output, 7.5 V, 8-Pin PDIP" 1050 -100 50 H I L CNN "Description"
+F5 "5.33" 1050 -200 50 H I L CNN "Height"
+F6 "Analog Devices" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "AD627BNZ" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "584-AD627BNZ" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD627BNZ" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "7096067P" 1050 -700 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/7096067P" 1050 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+X RG 1 0 0 200 R 50 50 0 0 U
+X -IN 2 0 -100 200 R 50 50 0 0 I
+X +IN 3 0 -200 200 R 50 50 0 0 I
+X -VS 4 0 -300 200 R 50 50 0 0 W
+X RG_1 8 1200 0 200 L 50 50 0 0 U
+X +VS 7 1200 -100 200 L 50 50 0 0 W
+X OUTPUT 6 1200 -200 200 L 50 50 0 0 O
+X REF 5 1200 -300 200 L 50 50 0 0 I
+P 5 0 1 6 200 100 1000 100 1000 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

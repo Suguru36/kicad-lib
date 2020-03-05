@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC1257CN8#PBF
+D LTC1257CN8#PBF, 12 bit-Bit DAC SPI, 8-Pin PDIP
+K
+F http://docs-emea.rs-online.com/webdocs/1252/0900766b81252334.pdf
+$ENDCMP
+#
+#End Doc Library
