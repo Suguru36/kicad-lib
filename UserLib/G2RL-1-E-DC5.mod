@@ -1,0 +1,84 @@
+PCBNEW-LibModule-V1  2020-03-05 11:25:25
+# encoding utf-8
+Units mm
+$INDEX
+G2RL-1E
+$EndINDEX
+$MODULE G2RL-1E
+Po 0 0 0 15 5e60e1a5 00000000 ~~
+Li G2RL-1E
+Cd G2RL-1E
+Kw Relay or Contactor
+Sc 0
+At STD
+AR 
+Op 0 0 0
+T0 14.04626 -6.2898 1.27 1.27 0 0.254 N V 21 N "K**"
+T1 14.04626 -6.2898 1.27 1.27 0 0.254 N I 21 N "G2RL-1E"
+DS 0 -12.5 29 -12.5 0.2 24
+DS 29 -12.5 29 0 0.2 24
+DS 29 0 0 0 0.2 24
+DS 0 0 0 -12.5 0.2 24
+DS 0 -12.5 0 0 0.2 21
+DS 0 0 29 0 0.2 21
+DS 29 0 29 -12.5 0.2 21
+DS 29 -12.5 0 -12.5 0.2 21
+DC 2.196 1.047 2.05169 1.047 0.254 21
+$PAD
+Po 2.3 -2.5
+Sh "1" C 2 2 0 0 900
+Dr 1.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 17.3 -2.5
+Sh "2" C 2 2 0 0 900
+Dr 1.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 22.3 -2.5
+Sh "3" C 2 2 0 0 900
+Dr 1.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 27.3 -2.5
+Sh "4" C 2 2 0 0 900
+Dr 1.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 27.3 -10
+Sh "5" C 2 2 0 0 900
+Dr 1.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 22.3 -10
+Sh "6" C 2 2 0 0 900
+Dr 1.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 17.3 -10
+Sh "7" C 2 2 0 0 900
+Dr 1.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 2.3 -10
+Sh "8" C 2 2 0 0 900
+Dr 1.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$EndMODULE G2RL-1E
+$EndLIBRARY

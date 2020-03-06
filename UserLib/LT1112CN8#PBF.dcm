@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1112CN8#PBF
+D LT1112CN8#PBF, Operational Amplifier 0.75MHz, 8-Pin PDIP
+K
+F http://docs-emea.rs-online.com/webdocs/10ed/0900766b810edb89.pdf
+$ENDCMP
+#
+#End Doc Library

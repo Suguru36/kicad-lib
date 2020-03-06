@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FGY75T95SQDT
+D IGBT Transistors 950V 75A FS4 IGBT
+K
+F https://www.mouser.com/datasheet/2/308/FGY75T95SQDT-D-1627124.pdf
+$ENDCMP
+#
+#End Doc Library
