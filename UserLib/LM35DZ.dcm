@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM35DZ
+D IC, TEMPERATURE SENSOR, +/- 0.4C
+K
+F 
+$ENDCMP
+#
+#End Doc Library

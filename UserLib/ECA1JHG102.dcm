@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ECA1JHG102
+D Aluminum Electrolytic Capacitors - Radial Leaded 1000uF 63V
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1215.pdf
+$ENDCMP
+#
+#End Doc Library

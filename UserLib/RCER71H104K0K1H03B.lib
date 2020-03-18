@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model RCER71H104K0K1H03B
+#/410271/233380/2.46/2/2/Capacitor
+DEF RCER71H104K0K1H03B C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "RCER71H104K0K1H03B" 350 150 50 H V L CNN
+F2 "RCE5C1H100J0A2H03B" 350 50 50 H I L CNN
+F3 "https://psearch.en.murata.com/capacitor/product/RCER71H104K0K1H03B.html" 350 -50 50 H I L CNN
+F4 "Murata Radial RCE 100nF Ceramic Multilayer Capacitor, 50 V dc, +125C, X7R Dielectric, +/-15%, Through Hole" 350 -150 50 H I L CNN "Description"
+F5 "5" 350 -250 50 H I L CNN "Height"
+F6 "Murata Electronics" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "RCER71H104K0K1H03B" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "81-RCER71H104K0K1H3B" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=81-RCER71H104K0K1H3B" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "8410749P" 350 -750 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/8410749P" 350 -850 50 H I L CNN "RS Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
