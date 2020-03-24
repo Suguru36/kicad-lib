@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model G3VM-61A1
+#/246394/233380/2.46/4/3/Relay or Contactor
+DEF G3VM-61A1 K 0 30 Y Y 1 F N
+F0 "K" 650 300 50 H V L CNN
+F1 "G3VM-61A1" 650 200 50 H V L CNN
+F2 "DIP762W60P254L458H485Q4N" 650 100 50 H I L CNN
+F3 "https://www.omron.com/ecb/products/pdf/en-g3vm_61a1_d1.pdf" 650 0 50 H I L CNN
+F4 "MOSFET relay, 4pin DIP, 60V 0.5A 0.5 A Through Hole, DC Switching SPST-NO MOSFET Solid State Relay, 1.3 V" 650 -100 50 H I L CNN "Description"
+F5 "4.85" 650 -200 50 H I L CNN "Height"
+F6 "Omron Electronics" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "G3VM-61A1" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "653-G3VM-61A1" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=653-G3VM-61A1" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "4801043" 650 -700 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/4801043" 650 -800 50 H I L CNN "RS Price/Stock"
+F12 "70175599" 650 -900 50 H I L CNN "Allied_Number"
+F13 "http://www.alliedelec.com/omron-electronic-components-g3vm-61a1/70175599/" 650 -1000 50 H I L CNN "Allied Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 4 4 800 0 200 L 50 50 0 0 U
+X 3 3 800 -100 200 L 50 50 0 0 U
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
